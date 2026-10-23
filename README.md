@@ -173,7 +173,7 @@ ml-network-intrusion-detector/
 * **Jalaja Sunil Borkar**
 * Department of Artificial Intelligence & Data Science
 * Datta Meghe College of Engineering, Mumbai University
-* **IBM Cybersecurity Bootcamp | BharatCares | October 2026** *
+* IBM Cybersecurity Bootcamp | BharatCares | October 2026
 
 ---
 
